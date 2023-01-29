@@ -2,7 +2,7 @@
   <div class="person-info">
     <div class="person-name">
       <span class="user-name">谢阳</span>
-      <img :src="userImg1" class="user-img" />
+      <img :src="userImg" class="user-img" />
     </div>
     <div class="default-info">
       <div class="work-status">在职</div>
@@ -40,8 +40,7 @@ export default {
   data() {
     return {
       jobList: ["Vue", "JavaScript", "Three.js", "Echarts"],
-      userImg1: require("@/assets/logo.png"),
-      userImg: require("@/assets/user.jpg"),
+      userImg: require("@/assets/logo.png"),
     };
   },
   methods: {},
