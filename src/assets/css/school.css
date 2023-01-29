@@ -1,0 +1,15 @@
+.school-info {
+  text-align: left;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+.label {
+    font-size: 14px;
+}
+
+.school-list {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 10px;
+}

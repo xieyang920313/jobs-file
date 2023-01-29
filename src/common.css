@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+
+div {
+    box-sizing: border-box;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.d-inline-block {
+    display: inline-block !important;
+}
+
+.position-relative {
+    position: relative !important;
+}
+.position-absolute {
+    position: absolute !important;
+}
