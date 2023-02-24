@@ -5,7 +5,7 @@
       <img :src="userImg" class="user-img" />
     </div>
     <div class="default-info">
-      <div class="work-status">在职</div>
+      <div class="work-status">离职</div>
       <div class="work-type">
         <el-icon class="icon">
           <MapLocation />

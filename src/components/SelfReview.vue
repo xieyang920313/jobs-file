@@ -19,7 +19,7 @@ export default {
         "项目经验涵盖MES系统,ERP系统,电商商城,工业大数据,大屏展示等",
         "个人不太习惯写博客,所以分享出去的东西很少,GitHub多为私有仓库",
         "自学过一点Node.js和Python,目前正努力学习Node中",
-        "关于前端方面,只要你想做的问题都可以交给我试试,都能尽自己最大努力去完成",
+        "关于前端方面,只要你想实现的,都可以交给我试试,会尽自己最大努力去完成",
         "目前使用的前端框架:Vue",
         "React私底下了解过一点,需要的情况下可以进一步学习",
       ],
@@ -30,6 +30,6 @@ export default {
 };
 </script>
 
-<style scoped >
+<style scoped>
 @import "@/assets/css/self.css";
 </style>
